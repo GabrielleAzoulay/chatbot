@@ -12,6 +12,8 @@ ChatBot.speechConfig;
 //Or when the user clicks the mute button
 ChatBot.speechEnabled = true;
 
+
+
 //TODO: remove for production
 ChatBot.debugMode = true;
 
